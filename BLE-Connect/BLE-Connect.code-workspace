@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"esp_nimble_hci.h": "c",
+			"nimble_port_freertos.h": "c",
+			"nimble_port.h": "c",
+			"freertos.h": "c",
+			"gpio.h": "c"
+		}
+	}
+}
