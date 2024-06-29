@@ -15,6 +15,7 @@ Además la app cuenta con manejo de:
 - Comunicación BLE mediante librería [flutter_blue_plus](https://pub.dev/packages/flutter_blue_plus)
 - Interacción con la cámara
 
+
 ## Peripheral
 El dispositivo que genera los datos, fue implementado mediante un _ESP32_.
 El programa está basado en el ejemplo [ESP32 Bluetooth Low Energy Tutorial with ESP-IDF](https://innovationyourself.com/esp32-bluetooth-low-energy-tutorial/)
@@ -27,4 +28,4 @@ También se controla un _gpio_ desde la aplicación.
 
 ### Login
 
-![](https://github.com/TobiasBp99/evConceptApp/tree/master/gifs/VID-20240629-WA0003.gif)
+![login](https://github.com/TobiasBp99/evConceptApp/tree/master/gifs/VID-20240629-WA0003.gif)
