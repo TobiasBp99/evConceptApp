@@ -12,7 +12,8 @@ El diseño de la aplicación fue totalmente libre, únicamente se debía impleme
 <p>
 </p>
 Además la app cuenta con manejo de:
-- Comunicación BLE mediante librería [ESP32 Bluetooth Low Energy Tutorial with ESP-IDF](https://innovationyourself.com/esp32-bluetooth-low-energy-tutorial/)
+
+- Comunicación BLE mediante librería [flutter_blue_plus](https://pub.dev/packages/flutter_blue_plus/)
 - Interacción con la cámara
 
 
@@ -25,7 +26,10 @@ El periférico se encarga de generar los datos que se muestran en las pantallas 
 También se controla un _gpio_ desde la aplicación.
 
 ## Uso
+Se comparten capturas del funcionamiento de la aplicación
 
 ### Login
 
+
 <img src="https://github.com/TobiasBp99/evConceptApp/tree/master/gifs/VID-20240629-WA0003.gif" width="160" height="320" />
+
