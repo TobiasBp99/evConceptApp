@@ -31,5 +31,5 @@ Se comparten capturas del funcionamiento de la aplicación
 ### Login
 
 
-<img src="https://github.com/TobiasBp99/evConceptApp/tree/master/gifs/VID-20240629-WA0003.gif" width="160" height="320" />
+<img src="https://github.com/TobiasBp99/evConceptApp/raw/master/gifs/VID-20240629-WA0003.gif" width="160" height="320" />
 
