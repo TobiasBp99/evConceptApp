@@ -29,3 +29,4 @@ También se controla un _gpio_ desde la aplicación.
 ### Login
 
 ![login](https://github.com/TobiasBp99/evConceptApp/tree/master/gifs/VID-20240629-WA0003.gif/)
+<img src="https://github.com/TobiasBp99/evConceptApp/tree/master/gifs/VID-20240629-WA0003.gif" width="160" height="320" />
