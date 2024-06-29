@@ -11,6 +11,7 @@ El diseño de la aplicación fue totalmente libre, únicamente se debía impleme
 - Modificación de objetos
 <p>
 </p>
+
 Además la app cuenta con manejo de:
 
 - Comunicación BLE mediante librería [flutter_blue_plus](https://pub.dev/packages/flutter_blue_plus/)
@@ -33,3 +34,17 @@ Se comparten capturas del funcionamiento de la aplicación
 
 <img src="https://github.com/TobiasBp99/evConceptApp/raw/master/gifs/VID-20240629-WA0003.gif" width="160" height="320" />
 
+### Login
+
+
+<img src="https://github.com/TobiasBp99/evConceptApp/raw/master/gifs/VID-20240629-WA0003.gif" width="160" height="320" />
+<img src="https://github.com/TobiasBp99/evConceptApp/raw/master/gifs/VID-20240629-WA0001.gif" width="160" height="320" />
+
+### View
+
+<img src="https://github.com/TobiasBp99/evConceptApp/raw/master/gifs/VID-20240629-WA0003.gif" width="160" height="320" />
+
+### BLE
+
+<img src="https://github.com/TobiasBp99/evConceptApp/raw/master/gifs/VID-20240629-WA0005.gif" width="160" height="320" />
+<img src="https://github.com/TobiasBp99/evConceptApp/raw/master/gifs/VID-20240629-WA0002.gif" width="160" height="320" />
